@@ -66,6 +66,9 @@ section{
     text-align: center;
     padding-bottom: 60px;
 }
+.client-option h2{
+    margin-bottom: 50px;
+}
 .client-option h5{
     font-size: 12px;
     font-weight: 400;
@@ -77,8 +80,6 @@ section{
 }
 .client-name{
     font-size: 12px;
-    padding-bottom: 0px;
-    margin-top: 0px;
     font-weight: 400;
     color: gray;
 }
