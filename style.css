@@ -62,6 +62,40 @@ section{
     text-align: center;
     margin: 80px 0px;
 }
+.highlights{
+    color: rgb(192, 0, 209);
+}
+.top-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top-section img{
+    width: 100%;
+}
+
+.single-exp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.exp-section{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
 .client-option{
     text-align: center;
     padding-bottom: 60px;
