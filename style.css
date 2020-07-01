@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.paragraph{
+    margin-bottom: 30px;
+    color: grey;
+}
+section{
+    height: 500px;
+}
+.header-section{
+
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.colorfull{
+    color: #EC4C7A;
+}
+.half-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-section img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+}
+.biography-section{
+    background-image: url("images/biography-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+}
+.work-section{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.work-option{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.work-option img{
+    width: 100%;
+}
+.work-section h2{
+    text-align: center;
+    margin: 80px 0px;
+}
+.client-option{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.client-option h5{
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.client-option p{
+    font-weight: 400;
+    font-size: 15px;
+}
+.client-name{
+    font-size: 12px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 400;
+    color: gray;
+}
+.half-client-section{
+    background-color: hotpink;
+    padding: 40px 0px;
+    margin: 0% 20%;
+}
+.half-client-section{
+    text-align: center;
+}
+.half-client-section p{
+    color: white;
+}
+.message{
+    font-size: 20px;
+
+}
+.footer-section{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.footer-section p{
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+}
